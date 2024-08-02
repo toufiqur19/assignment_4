@@ -42,7 +42,7 @@
                     <th>Name</th>
                     <th>Email</th>
                     <th>Phone</th>
-                    <th>Address</th>
+                    <th>Date</th>
                     <th>Action</th>
                 </tr>
             </thead>
